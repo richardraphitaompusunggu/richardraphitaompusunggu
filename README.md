@@ -1,6 +1,6 @@
 [![](https://github.com/richardraphitaompusunggu/richardraphitaompusunggu/blob/master/RICHARD%20RAPHITA%20OMPUSUNGGU.png "")](https://some-url.dev/)
 ### Hi there, I am Richard Raphita 👋
-I am data enthusiast from Indonesia who interested with Data Science, Machine Learning and Artificial Intelligence. I have passion for learning something new and sharing my knowledge with others.
+I am data enthusiast from Indonesia who interested in Data Science, Machine Learning and Artificial Intelligence. I have passion for learning something new and sharing my knowledge with others.
 <!--
 **richardraphitaompusunggu/richardraphitaompusunggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
