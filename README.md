@@ -1,6 +1,6 @@
 [![](https://github.com/richardraphitaompusunggu/richardraphitaompusunggu/blob/master/RICHARD%20RAPHITA%20OMPUSUNGGU.png "")](https://some-url.dev/)
 ### Hi there 👋
-
+I am Data enthusiast from Indonesia
 <!--
 **richardraphitaompusunggu/richardraphitaompusunggu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
